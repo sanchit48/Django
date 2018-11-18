@@ -1,1 +1,1 @@
-gitAdd text to README.md
+Add text to README.md
